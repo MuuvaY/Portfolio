@@ -1,0 +1,269 @@
+@font-face {
+  font-family: "Transducer";
+  src: url("Transducer-Bold.woff2") format("woff2"),
+    url("Transducer-Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Transducer";
+  src: url("Transducer-BlackCondensedOblique.woff2") format("woff2"),
+    url("Transducer-BlackCondensedOblique.woff") format("woff");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Transducer";
+  src: url("Transducer-Black.woff2") format("woff2"),
+    url("Transducer-Black.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Transducer";
+  src: url("Transducer-BoldCondensedOblique.woff2") format("woff2"),
+    url("Transducer-BoldCondensedOblique.woff") format("woff");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Transducer";
+  src: url("Transducer-HairlineCondensed.woff2") format("woff2"),
+    url("Transducer-HairlineCondensed.woff") format("woff");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Transducer";
+  src: url("Transducer-BoldOblique.woff2") format("woff2"),
+    url("Transducer-BoldOblique.woff") format("woff");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Transducer";
+  src: url("Transducer-BoldCondensed.woff2") format("woff2"),
+    url("Transducer-BoldCondensed.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Transducer";
+  src: url("Transducer-BlackOblique.woff2") format("woff2"),
+    url("Transducer-BlackOblique.woff") format("woff");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Transducer";
+  src: url("Transducer-BlackCondensed.woff2") format("woff2"),
+    url("Transducer-BlackCondensed.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Transducer";
+  src: url("Transducer-HairlineCondensedOblique.woff2") format("woff2"),
+    url("Transducer-HairlineCondensedOblique.woff") format("woff");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Transducer";
+  src: url("Transducer-CondensedOblique.woff2") format("woff2"),
+    url("Transducer-CondensedOblique.woff") format("woff");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Transducer";
+  src: url("Transducer-Condensed.woff2") format("woff2"),
+    url("Transducer-Condensed.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Transducer";
+  src: url("Transducer-MediumCondensed.woff2") format("woff2"),
+    url("Transducer-MediumCondensed.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Transducer";
+  src: url("Transducer-BoldExtended.woff2") format("woff2"),
+    url("Transducer-BoldExtended.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Transducer";
+  src: url("Transducer-Oblique.woff2") format("woff2"),
+    url("Transducer-Oblique.woff") format("woff");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Transducer";
+  src: url("Transducer-MediumCondensedOblique.woff2") format("woff2"),
+    url("Transducer-MediumCondensedOblique.woff") format("woff");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Transducer";
+  src: url("Transducer-Hairline.woff2") format("woff2"),
+    url("Transducer-Hairline.woff") format("woff");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Transducer";
+  src: url("Transducer-BlackExtended.woff2") format("woff2"),
+    url("Transducer-BlackExtended.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Transducer";
+  src: url("Transducer-MediumExtendedOblique.woff2") format("woff2"),
+    url("Transducer-MediumExtendedOblique.woff") format("woff");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Transducer";
+  src: url("Transducer-Regular.woff2") format("woff2"),
+    url("Transducer-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Transducer";
+  src: url("Transducer-ExtendedOblique.woff2") format("woff2"),
+    url("Transducer-ExtendedOblique.woff") format("woff");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Transducer";
+  src: url("Transducer-MediumOblique.woff2") format("woff2"),
+    url("Transducer-MediumOblique.woff") format("woff");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Transducer";
+  src: url("Transducer-HairlineExtended.woff2") format("woff2"),
+    url("Transducer-HairlineExtended.woff") format("woff");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Transducer";
+  src: url("Transducer-Extended.woff2") format("woff2"),
+    url("Transducer-Extended.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Transducer";
+  src: url("Transducer-BlackExtendedOblique.woff2") format("woff2"),
+    url("Transducer-BlackExtendedOblique.woff") format("woff");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Transducer";
+  src: url("Transducer-Medium.woff2") format("woff2"),
+    url("Transducer-Medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Transducer";
+  src: url("Transducer-BoldExtendedOblique.woff2") format("woff2"),
+    url("Transducer-BoldExtendedOblique.woff") format("woff");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Transducer";
+  src: url("Transducer-MediumExtended.woff2") format("woff2"),
+    url("Transducer-MediumExtended.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Transducer";
+  src: url("Transducer-HairlineExtendedOblique.woff2") format("woff2"),
+    url("Transducer-HairlineExtendedOblique.woff") format("woff");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Transducer";
+  src: url("Transducer-HairlineOblique.woff2") format("woff2"),
+    url("Transducer-HairlineOblique.woff") format("woff");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
