@@ -434,9 +434,9 @@ html {
     transform: scale(1);
   }
 }
-.about__container__cv .about__cv:hover {
+/* .about__container__cv .about__cv:hover {
   background-color: #faf8d4;
-}
+} */
 
 /* Styles pour les écrans de petite taille (mobile) */
 @media screen and (max-width: 576px) {
@@ -1116,7 +1116,6 @@ time {
   justify-content: center;
   text-align: center;
   font-family: "Noto Sans", sans-serif;
-  height: 3.5rem;
 }
 .blog-slider__link {
   display: flex;
